@@ -1,12 +1,12 @@
 ### Hi 👋
 
 My name is **Daniel**, <br>
-I have the username **stormtrooper232** <br>
-I write **code** <br>
-I don't frequently use **github** 🤷‍♂️
 
+I am a student at The University of Chicago, studying Mathematics & Computer Science
 
-I like **Computer Science** 🧮 <br>
-I also like **programming** 👨‍💻 <br>
+I work on areas of CS / data I find interesting in my freetime, mostly algorithms / data science / web scraping projects <br>
+I don't frequently use **github**
 
-**email:** _stormtrooper23221@gmail.com_
+This is a small collection of some code I've written over the years. Primarily for my robotics team. 
+
+**email:** _dasteiner@uchicago.edu_
